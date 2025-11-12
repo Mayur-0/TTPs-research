@@ -1,5 +1,5 @@
 # Threat-Briefs Research and Visualization
-Research based project focusing the research of the TTPs (Techniques, Tactics and Procedures) used within Banking sector..
+Research based project focusing the research of the TTPs (Techniques, Tactics and Procedures) used within Indian Financial sector.
 
 
 
